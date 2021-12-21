@@ -1,0 +1,6 @@
+="Submit Task" description="Submits the currently open task" category="_F4Ioru6BEeu5NKZgLXG4bQ"/>
+  <commands xmi:id="_F4OvOO6BEeu5NKZgLXG4bQ" elementId="org.eclipse.eclemma.ui.testNgSuiteShortcut.coverage" commandName="Coverage TestNG Suite" description="Coverage TestNG Suite" category="_F4IooO6BEeu5NKZgLXG4bQ"/>
+  <commands xmi:id="_F4OvOe6BEeu5NKZgLXG4bQ" elementId="org.eclipse.jdt.ui.edit.text.java.extract.superclass" commandName="Extract Superclass" description="Extract a set of members into a new superclass and try to use the new superclass" category="_F4JPo-6BEeu5NKZgLXG4bQ"/>
+  <commands xmi:id="_F4OvOu6BEeu5NKZgLXG4bQ" elementId="org.eclipse.wst.xml.ui.reload.dependencies" commandName="Reload Dependencies" description="Reload Dependencies" category="_F4Ioqe6BEeu5NKZgLXG4bQ"/>
+  <commands xmi:id="_F4OvO-6BEeu5NKZgLXG4bQ" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" commandName="Show Selected Element Only" description="Show Selected Element Only" category="_F4Ione6BEeu5NKZgLXG4bQ"/>
+  <commands xmi:id="_F4OvPO6BEeu5NKZgLXG4bQ" elementId="org.eclipse.tm4e.languageconfiguration.r
